@@ -1,0 +1,75 @@
+@media  screen and (max-width: 990px) {
+    .bd-placeholder-img {
+        width: 350px;
+        height: 150px;
+    }
+    .mx-2 {
+        margin-top: 10px;
+    }
+}
+@media screen and (max-width: 766px) {
+    .bd-placeholder-img {
+        width: 200px;
+        height: 250px;
+    }
+}
+@media screen and (max-width: 515px) {
+    .carousel-caption .btn {
+        margin-top: 6px;
+        margin-right: 4px;
+    }
+    .bd-placeholder-img {
+        width: 200px;
+        height: 260px;
+    }
+}
+@media screen and (max-width: 482px) {
+    .bd-placeholder-img {
+        width: 199px;
+        height: 260px;
+    } 
+    #img1, #img2 {
+        width: 199px;
+        height: 285px;
+    }
+}
+@media screen and (max-width: 445px) {
+    .bd-placeholder-img {
+        width: 199px;
+        height: 285px;
+    }
+    #img1, #img2 {
+        width: 199px;
+        height: 310px;
+    }
+}
+@media screen and (max-width: 415px) {
+    .bd-placeholder-img {
+        width: 450px;
+        height: 150px;
+    }
+    #img1, #img2, #img3 {
+        width: 450px;
+        height: 150px;
+    }
+}
+@media screen and (max-width: 402px) {
+    .bd-placeholder-img {
+        width: 400px;
+        height: 150px;
+    }
+    #img1, #img2, #img3 {
+        width: 400px;
+        height: 150px;
+    }
+}
+@media screen and (max-width: 360px) {
+    .bd-placeholder-img {
+        width: 350px;
+        height: 150px;
+    }
+    #img1, #img2, #img3 {
+        width: 350px;
+        height: 150px;
+    }
+}
